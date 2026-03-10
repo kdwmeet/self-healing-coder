@@ -82,3 +82,5 @@ uv run streamlit run main.py
 * **프로덕션 환경 적용 시 권장 사항**: 실제 서비스에 배포하거나 권한이 높은 서버에서 구동할 경우, 반드시 Docker 컨테이너와 같은 엄격하게 격리된 샌드박스 환경 내부에서 Executor Node가 동작하도록 아키텍처를 수정해야 합니다.
 
 ## 8. 실행 화면
+<img width="1314" height="843" alt="스크린샷 2026-03-10 103034" src="https://github.com/user-attachments/assets/df65010e-835e-4c70-9e04-b61744c5c680" />
+
